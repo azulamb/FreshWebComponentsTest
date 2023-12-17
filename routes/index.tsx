@@ -19,6 +19,9 @@ export default function Home() {
           <code class="mx-2">./routes/index.tsx</code> file, and refresh.
         </p>
         <Counter count={count} />
+        <sample-component style={{ color: "white" }}>
+          WebComponents.
+        </sample-component>
       </div>
     </div>
   );
