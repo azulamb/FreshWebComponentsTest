@@ -1,0 +1,2 @@
+interface SampleComponent extends HTMLElement {
+}
